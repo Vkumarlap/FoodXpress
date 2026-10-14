@@ -1,3 +1,4 @@
+//secuirity config file
 package com.javaminds.backendd.securityConfig;
 
 import org.springframework.security.authentication.AuthenticationManager;
